@@ -2,8 +2,8 @@
 
 ## Team: Eraser Experts
 - **Course**: ASP.NET Core Development
-- **Instructor**: Professor XYZ
-- **Date**: YYYY-MM-DD
+- **Instructor**: Andrew Steele
+- **Date**: 2025-02
 
 ## Project Overview:
 The DoodleGone Eraser Store is a fictional company selling different types of erasers with various properties like size, colour, and durability.

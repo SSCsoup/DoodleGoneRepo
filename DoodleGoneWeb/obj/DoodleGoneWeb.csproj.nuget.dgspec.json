@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\DoodleGoneWeb.csproj": {}
+    "C:\\Users\\ashok\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\DoodleGoneWeb\\DoodleGoneWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\DoodleGoneWeb.csproj": {
+    "C:\\Users\\ashok\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\DoodleGoneWeb\\DoodleGoneWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\DoodleGoneWeb.csproj",
+        "projectUniqueName": "C:\\Users\\ashok\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\DoodleGoneWeb\\DoodleGoneWeb.csproj",
         "projectName": "DoodleGoneWeb",
-        "projectPath": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\DoodleGoneWeb.csproj",
-        "packagesPath": "C:\\Users\\mjrbl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\obj\\",
+        "projectPath": "C:\\Users\\ashok\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\DoodleGoneWeb\\DoodleGoneWeb.csproj",
+        "packagesPath": "C:\\Users\\ashok\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ashok\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\DoodleGoneWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mjrbl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ashok\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

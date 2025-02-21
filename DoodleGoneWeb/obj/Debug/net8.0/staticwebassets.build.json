@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3jQ+sDJfsIs+kb4wx2n0JFkzDFHTCpKfxUDE0F6uEzY=",
+  "Hash": "DAYd1tHUWQO3R6e4EI9ceH26XbuP3znL86k16GwytMM=",
   "Source": "DoodleGoneWeb",
   "BasePath": "_content/DoodleGoneWeb",
   "Mode": "Default",
@@ -1359,6 +1359,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\wwwroot\\images\\dg.png",
+      "SourceId": "DoodleGoneWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\wwwroot\\",
+      "BasePath": "_content/DoodleGoneWeb",
+      "RelativePath": "images/dg#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vqd04hbuos",
+      "Integrity": "l91kN7cshi4zF+B13DUbtjKjZRt/hHpUDRifgyh5Rhc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dg.png"
     },
     {
       "Identity": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\wwwroot\\js\\site.js",
@@ -5125,6 +5146,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "images/dg.png",
+      "AssetFile": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\wwwroot\\images\\dg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l91kN7cshi4zF+B13DUbtjKjZRt/hHpUDRifgyh5Rhc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 04:21:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l91kN7cshi4zF+B13DUbtjKjZRt/hHpUDRifgyh5Rhc="
+        }
+      ]
+    },
+    {
+      "Route": "images/dg.vqd04hbuos.png",
+      "AssetFile": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\wwwroot\\images\\dg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l91kN7cshi4zF+B13DUbtjKjZRt/hHpUDRifgyh5Rhc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 04:21:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vqd04hbuos"
+        },
+        {
+          "Name": "label",
+          "Value": "images/dg.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l91kN7cshi4zF+B13DUbtjKjZRt/hHpUDRifgyh5Rhc="
         }
       ]
     },

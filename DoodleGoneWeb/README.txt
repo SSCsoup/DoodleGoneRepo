@@ -11,6 +11,7 @@ Eric Blachette:
 3:43	created eraser object
 3:50	created mock eraser data
 4:30	created the page to display eraser objects
+4:34	finished changes
 
 Bhumi Patel: 
 2025-02-19

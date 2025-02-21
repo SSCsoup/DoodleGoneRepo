@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegoneweb\\doodlegoneweb\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegoneweb\\doodlegoneweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegoneweb\\doodlegoneweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegoneweb\\doodlegoneweb\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AboutUs.cshtml",
               "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\Views\\Home\\AboutUs.cshtml",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Views\\Home\\AboutUs.cshtml",
@@ -74,12 +74,11 @@
               "RelativeToolTip": "DoodleGoneWeb\\Views\\Home\\AboutUs.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T04:59:01.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T04:59:01.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Controllers\\HomeController.cs",
@@ -87,12 +86,11 @@
               "RelativeToolTip": "DoodleGoneWeb\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T04:57:56.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T04:57:56.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\Views\\EraserCatalogue\\Index.cshtml",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Views\\EraserCatalogue\\Index.cshtml",
@@ -100,12 +98,11 @@
               "RelativeToolTip": "DoodleGoneWeb\\Views\\EraserCatalogue\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T01:40:15.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T01:40:15.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EraserCatalogueController.cs",
               "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\Controllers\\EraserCatalogueController.cs",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Controllers\\EraserCatalogueController.cs",
@@ -117,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Views\\Home\\Index.cshtml",
@@ -129,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Eraser.cs",
               "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\Models\\Eraser.cs",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Models\\Eraser.cs",
@@ -141,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Welcome.cshtml",
               "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\Views\\HelloWorld\\Welcome.cshtml",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Views\\HelloWorld\\Welcome.cshtml",
@@ -153,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Views\\_ViewStart.cshtml",
@@ -165,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Views\\Shared\\_Layout.cshtml",
@@ -178,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\Views\\HelloWorld\\Index.cshtml",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Views\\HelloWorld\\Index.cshtml",
@@ -190,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HelloWorldController.cs",
               "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\Controllers\\HelloWorldController.cs",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Controllers\\HelloWorldController.cs",
@@ -202,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\Program.cs",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Program.cs",
@@ -214,15 +211,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "README.txt",
               "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\README.txt",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\README.txt",
               "ToolTip": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\README.txt",
               "RelativeToolTip": "DoodleGoneWeb\\README.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-02-21T01:12:24.954Z"
+              "WhenOpened": "2025-02-21T01:12:24.954Z",
+              "EditorCaption": ""
             }
           ]
         }

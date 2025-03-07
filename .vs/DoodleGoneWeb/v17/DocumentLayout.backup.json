@@ -1,57 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\",
+  "WorkspaceRootPath": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\patel\\source\\repos\\doodlegonerepo\\doodlegoneweb\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\patel\\source\\repos\\doodlegonerepo\\doodlegoneweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\patel\\source\\repos\\doodlegonerepo\\doodlegoneweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\patel\\source\\repos\\doodlegonerepo\\doodlegoneweb\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegonerepo\\doodlegoneweb\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\patel\\source\\repos\\doodlegonerepo\\doodlegoneweb\\views\\erasercatalogue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\views\\erasercatalogue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegonerepo\\doodlegoneweb\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\patel\\source\\repos\\doodlegonerepo\\doodlegoneweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\patel\\source\\repos\\doodlegonerepo\\doodlegoneweb\\controllers\\erasercataloguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\controllers\\erasercataloguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\patel\\source\\repos\\doodlegonerepo\\doodlegoneweb\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\patel\\source\\repos\\doodlegonerepo\\doodlegoneweb\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\patel\\source\\repos\\doodlegonerepo\\doodlegoneweb\\models\\eraser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegonerepo\\doodlegoneweb\\models\\eraser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\models\\eraser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\patel\\source\\repos\\doodlegonerepo\\doodlegoneweb\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegonerepo\\doodlegoneweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegonerepo\\doodlegoneweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegonerepo\\doodlegoneweb\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegonerepo\\doodlegoneweb\\views\\erasercatalogue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\views\\erasercatalogue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegonerepo\\doodlegoneweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegonerepo\\doodlegoneweb\\controllers\\erasercataloguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\controllers\\erasercataloguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegonerepo\\doodlegoneweb\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegonerepo\\doodlegoneweb\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegonerepo\\doodlegoneweb\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\patel\\source\\repos\\doodlegonerepo\\doodlegoneweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegonerepo\\doodlegoneweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\patel\\source\\repos\\doodlegonerepo\\doodlegoneweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegonerepo\\doodlegoneweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,35 +66,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\Home\\Admin.cshtml",
+              "RelativeDocumentMoniker": "DoodleGoneWeb\\Views\\Home\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\Home\\Admin.cshtml",
+              "RelativeToolTip": "DoodleGoneWeb\\Views\\Home\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T16:07:20.419Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "Eraser.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Models\\Eraser.cs",
+              "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Models\\Eraser.cs",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Models\\Eraser.cs",
-              "ToolTip": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Models\\Eraser.cs",
+              "ToolTip": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Models\\Eraser.cs",
               "RelativeToolTip": "DoodleGoneWeb\\Models\\Eraser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T01:32:31.557Z"
+              "WhenOpened": "2025-02-21T01:32:31.557Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Welcome.cshtml",
-              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\HelloWorld\\Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\HelloWorld\\Welcome.cshtml",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Views\\HelloWorld\\Welcome.cshtml",
-              "ToolTip": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\HelloWorld\\Welcome.cshtml",
               "RelativeToolTip": "DoodleGoneWeb\\Views\\HelloWorld\\Welcome.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -98,11 +112,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "DoodleGoneWeb\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -110,50 +124,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "DoodleGoneWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAcwB4AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-21T01:24:30.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "README.txt",
-              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\README.txt",
+              "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\README.txt",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\README.txt",
-              "ToolTip": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\README.txt",
+              "ToolTip": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\README.txt",
               "RelativeToolTip": "DoodleGoneWeb\\README.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-02-21T01:12:24.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Controllers\\HomeController.cs",
               "RelativeToolTip": "DoodleGoneWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T04:57:56.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "AboutUs.cshtml",
-              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\Home\\AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\Home\\AboutUs.cshtml",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Views\\Home\\AboutUs.cshtml",
-              "ToolTip": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\Home\\AboutUs.cshtml",
               "RelativeToolTip": "DoodleGoneWeb\\Views\\Home\\AboutUs.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -162,11 +176,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "DoodleGoneWeb\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -174,11 +188,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "EraserCatalogueController.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Controllers\\EraserCatalogueController.cs",
+              "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Controllers\\EraserCatalogueController.cs",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Controllers\\EraserCatalogueController.cs",
-              "ToolTip": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Controllers\\EraserCatalogueController.cs",
+              "ToolTip": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Controllers\\EraserCatalogueController.cs",
               "RelativeToolTip": "DoodleGoneWeb\\Controllers\\EraserCatalogueController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -186,11 +200,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\EraserCatalogue\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\EraserCatalogue\\Index.cshtml",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Views\\EraserCatalogue\\Index.cshtml",
-              "ToolTip": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\EraserCatalogue\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\EraserCatalogue\\Index.cshtml",
               "RelativeToolTip": "DoodleGoneWeb\\Views\\EraserCatalogue\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -198,11 +212,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\HelloWorld\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\HelloWorld\\Index.cshtml",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Views\\HelloWorld\\Index.cshtml",
-              "ToolTip": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Views\\HelloWorld\\Index.cshtml",
               "RelativeToolTip": "DoodleGoneWeb\\Views\\HelloWorld\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -210,11 +224,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "HelloWorldController.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Controllers\\HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Controllers\\HelloWorldController.cs",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Controllers\\HelloWorldController.cs",
-              "ToolTip": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Controllers\\HelloWorldController.cs",
               "RelativeToolTip": "DoodleGoneWeb\\Controllers\\HelloWorldController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -222,11 +236,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Program.cs",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\patel\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneRepo\\DoodleGoneWeb\\Program.cs",
               "RelativeToolTip": "DoodleGoneWeb\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

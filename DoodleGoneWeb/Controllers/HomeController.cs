@@ -32,5 +32,18 @@ namespace DoodleGoneWeb.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+        public ActionResult Admin()
+        {
+            
+            string apiUri = Url.RouteUrl("DefaultApi", new { controller = "admin" });
+
+            
+            Uri apiUrl = new Uri($"{Request.Scheme}://{Request.Host}{Request.PathBase}{apiUri}");
+
+           
+            ViewBag.ApiUrl = apiUrl.AbsoluteUri;
+
+            return View();
+        }
     }
 }

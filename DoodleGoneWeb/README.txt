@@ -25,3 +25,24 @@ Bhumi Patel:
 02:30 - fixed issue as he expained to me, i need to close visual studio entirely and commit with admin priviledges in powershell
 02:35 - created all the braches again 
 02:48 - tried to test it, worked sucessfully.
+
+Eric Blanchette:
+2025-03-06
+11:20 - made admin bar
+11:22 - admin bar wont work and returns an error
+11:30 - tried a syntax fix, didnt work
+11:50 - made a guest account
+email -		ericrwblanchette@gmail.com
+password -  Gohabs03!
+12:40 - tried a another fix to admin page, didn't work
+
+Eric Blanchette:
+2025-03-07
+11:07 - tried debugging admin issue again no luck
+12:34 - published to azure
+12:35 checked my site and for 5 seconds it actually worked. the site showed up, 
+	however, there was no css and it crashed after the first 5 seconds.
+	also:
+	- links to pages didn't work
+	- couldn't reload to fix the issue
+12:58 - tried a different publish method going through the azure site, still no luck

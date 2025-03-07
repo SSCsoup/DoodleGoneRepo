@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patel\\Source\\Repos\\DoodleGoneRepo\\DoodleGoneWeb\\DoodleGoneWeb.csproj": {}
+    "C:\\Users\\mjrbl\\Source\\Repos\\DoodleGoneRepo\\DoodleGoneWeb\\DoodleGoneWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patel\\Source\\Repos\\DoodleGoneRepo\\DoodleGoneWeb\\DoodleGoneWeb.csproj": {
+    "C:\\Users\\mjrbl\\Source\\Repos\\DoodleGoneRepo\\DoodleGoneWeb\\DoodleGoneWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patel\\Source\\Repos\\DoodleGoneRepo\\DoodleGoneWeb\\DoodleGoneWeb.csproj",
+        "projectUniqueName": "C:\\Users\\mjrbl\\Source\\Repos\\DoodleGoneRepo\\DoodleGoneWeb\\DoodleGoneWeb.csproj",
         "projectName": "DoodleGoneWeb",
-        "projectPath": "C:\\Users\\patel\\Source\\Repos\\DoodleGoneRepo\\DoodleGoneWeb\\DoodleGoneWeb.csproj",
-        "packagesPath": "C:\\Users\\patel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patel\\Source\\Repos\\DoodleGoneRepo\\DoodleGoneWeb\\obj\\",
+        "projectPath": "C:\\Users\\mjrbl\\Source\\Repos\\DoodleGoneRepo\\DoodleGoneWeb\\DoodleGoneWeb.csproj",
+        "packagesPath": "C:\\Users\\mjrbl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mjrbl\\Source\\Repos\\DoodleGoneRepo\\DoodleGoneWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mjrbl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -69,6 +69,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[8.0.12, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [

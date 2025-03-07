@@ -33,6 +33,10 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="AboutUs">About Us</a>
                         </li>
+                        <li class="nav-item">
+                            @Html.ActionLink("Admin", "Admin", "Home", null, new { @class = "nav-link text-dark" })
+                        </li>
+
                     </ul>
                     <partial name="_LoginPartial" />
                 </div>

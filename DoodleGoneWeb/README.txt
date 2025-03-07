@@ -46,3 +46,5 @@ Eric Blanchette:
 	- links to pages didn't work
 	- couldn't reload to fix the issue
 12:58 - tried a different publish method going through the azure site, still no luck
+1:50 - IT PUBLISHED! IT WORKED!
+https://doodlegoneweb20250307132117.azurewebsites.net/

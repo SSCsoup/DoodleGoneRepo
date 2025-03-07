@@ -578,7 +578,6 @@ C:\Users\mjrbl\Source\Repos\DoodleGoneRepo\DoodleGoneWeb\obj\Debug\net8.0\static
 C:\Users\mjrbl\Source\Repos\DoodleGoneRepo\DoodleGoneWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DoodleGoneWeb.props
 C:\Users\mjrbl\Source\Repos\DoodleGoneRepo\DoodleGoneWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DoodleGoneWeb.props
 C:\Users\mjrbl\Source\Repos\DoodleGoneRepo\DoodleGoneWeb\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\mjrbl\Source\Repos\DoodleGoneRepo\DoodleGoneWeb\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\mjrbl\Source\Repos\DoodleGoneRepo\DoodleGoneWeb\obj\Debug\net8.0\DoodleGo.C0A94450.Up2Date
 C:\Users\mjrbl\Source\Repos\DoodleGoneRepo\DoodleGoneWeb\obj\Debug\net8.0\DoodleGoneWeb.dll
 C:\Users\mjrbl\Source\Repos\DoodleGoneRepo\DoodleGoneWeb\obj\Debug\net8.0\refint\DoodleGoneWeb.dll

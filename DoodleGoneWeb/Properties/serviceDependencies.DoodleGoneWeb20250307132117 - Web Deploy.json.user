@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "mssql3": {
+      "restored": true,
+      "restoreTime": "2025-03-07T18:44:11.9644659Z"
+    }
+  },
+  "parameters": {
+    "mssql3.subscriptionId": {
+      "Name": "mssql3.subscriptionId",
+      "Type": "subscription",
+      "Value": "90c72395-4835-4e0c-8de4-1f33e073e84c"
+    },
+    "mssql3.serviceConnectorResourceGroupName": {
+      "Name": "mssql3.serviceConnectorResourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "MvcMovie20250205091944ResourceGroup"
+    },
+    "mssql3.resourceGroupName": {
+      "Name": "mssql3.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "DefaultResourceGroup-CCAN"
+    }
+  }
+}

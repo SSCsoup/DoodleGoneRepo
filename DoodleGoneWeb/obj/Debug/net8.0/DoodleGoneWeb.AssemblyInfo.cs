@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoodleGoneWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f40f81eaef18729a61a2cceb78acd42b0fe70211")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c4a39d690597f4c97eccc7ba7cea18c4c1dbd2f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoodleGoneWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoodleGoneWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

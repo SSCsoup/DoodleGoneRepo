@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\",
+  "WorkspaceRootPath": "C:\\Users\\patel\\source\\repos\\new\\DoodleGoneRepo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\mjrbl\\source\\repos\\doodlegoneweb\\doodlegoneweb\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\patel\\source\\repos\\new\\doodlegonerepo\\doodlegoneweb\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -14,15 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "README.txt",
-              "DocumentMoniker": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\README.txt",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\new\\DoodleGoneRepo\\DoodleGoneWeb\\README.txt",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\README.txt",
-              "ToolTip": "C:\\Users\\mjrbl\\source\\repos\\DoodleGoneWeb\\DoodleGoneWeb\\README.txt",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\new\\DoodleGoneRepo\\DoodleGoneWeb\\README.txt",
               "RelativeToolTip": "DoodleGoneWeb\\README.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",

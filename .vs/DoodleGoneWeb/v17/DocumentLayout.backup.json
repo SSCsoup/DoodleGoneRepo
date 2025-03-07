@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\patel\\source\\repos\\new\\doodlegonerepo\\doodlegoneweb\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|c:\\users\\patel\\source\\repos\\new\\doodlegonerepo\\doodlegoneweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF680D4-1DFF-4A7C-AC09-489EB7EC17E8}|DoodleGoneWeb\\DoodleGoneWeb.csproj|solutionrelative:doodlegoneweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\new\\DoodleGoneRepo\\DoodleGoneWeb\\Program.cs",
+              "RelativeDocumentMoniker": "DoodleGoneWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\new\\DoodleGoneRepo\\DoodleGoneWeb\\Program.cs",
+              "RelativeToolTip": "DoodleGoneWeb\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAMzMzM7MiwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:29:18.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "README.txt",
               "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\new\\DoodleGoneRepo\\DoodleGoneWeb\\README.txt",
               "RelativeDocumentMoniker": "DoodleGoneWeb\\README.txt",
               "ToolTip": "C:\\Users\\patel\\source\\repos\\new\\DoodleGoneRepo\\DoodleGoneWeb\\README.txt",
               "RelativeToolTip": "DoodleGoneWeb\\README.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-02-21T01:12:24.954Z",
               "EditorCaption": ""

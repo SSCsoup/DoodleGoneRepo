@@ -24,3 +24,30 @@ Bhumi Patel:
 02:30 - fixed issue as he expained to me, i need to close visual studio entirely and commit with admin priviledges in powershell
 02:35 - created all the braches again 
 02:48 - tried to test it, worked sucessfully.
+
+
+﻿DoodleGone
+Web Application Security
+Bhumi Patel
+2025-03-07
+10:15 - Started implementing Role-Based Access Control (RBAC) in Program.cs.
+10:20 -  admin credentials:
+================================
+ ID : eric@doodlegone.ca
+ Password : Admin@1234
+================================
+10:25 -  guest user credentials:
+==================================
+ user1 ID - bhumi@doodlegone.ca
+ user1 Password - User@0709
+
+ user2 ID = vikas@doodlegone.ca
+ user2 Password = Vika@4554
+===============================
+10:30 - Updated Program.cs to implement Role-Based Access Control (RBAC) for Admin and Guest roles.
+10:38 - Configured user roles inside the authentication logic.
+10:45 - Implemented middleware to enforce role-based access for different parts of the system.
+10:55 - Tested authentication and access control for Admin and Guest users.
+11:05 - Verified login functionalities and restricted access based on user roles.
+11:15 - Debugged minor issues related to role assignment and authentication logic.
+11:30 - Finalized and committed changes.
